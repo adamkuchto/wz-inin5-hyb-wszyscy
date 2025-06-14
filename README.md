@@ -21,4 +21,3 @@ Projekt wykorzystuje:
 
 ## Sposób uruchomienia
 - kliknij link
-Zaliczenie przedmiotu - Zarządzanie projektem wdrożeniowym
